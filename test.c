@@ -8,5 +8,6 @@ int main(int argc, char* argv[])
   printf("ok\n");
   printf("hello world\n");
   printf("this is test\n");
+  printf("judomecy\n");
   return 0;
 }
