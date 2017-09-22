@@ -5,5 +5,6 @@
 int main(int argc, char* argv[])
 {
   printf("ok");
+  printf("this is test\n");
   return 0;
 }
